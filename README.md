@@ -5,17 +5,21 @@
 
 <hr/>
 
-### 링크
+### 동영상 링크
 - 앱 또는 웹 사이트의 레이아웃 제작 및 디자인
 ```
-로우 피델리티 디자인 시작하기
+로우 피델리티 디자인 시작하기, 키트 활용하기
 https://helpx.adobe.com/kr/xd/how-to/web-mobile-app-ui-ux-design-basics.html
 ```
 
+### asset 링크
 - UI 키트, 와이어프레임키트
 ```
 Wires, free wireframe kits for Adobe XD
 https://www.behance.net/gallery/55462459/Wires-wireframe-kits-for-Adobe-XD
+
+Material design
+https://www.adobe.com/products/xd/resources.html#panel-3
 ```
 <hr/>
 
