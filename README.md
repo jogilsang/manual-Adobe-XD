@@ -1,4 +1,17 @@
 # manual-Adobe-XD
+
+### 연혁
+2018/10/21, Adobe XD를 시작하다. 
+
+### 링크
+- 앱 또는 웹 사이트의 레이아웃 제작 및 디자인
+```
+로우 피델리티 디자인 시작하기
+https://helpx.adobe.com/kr/xd/how-to/web-mobile-app-ui-ux-design-basics.html
+```
+<hr/>
+
+### 메모
 어도비XD를 사용하고자하는 나를 위한 메뉴얼
 
 디자인 모드, 
@@ -12,14 +25,3 @@
 오브젝트 수정
 
 create link
-
-### 연혁
-2018/10/21, Adobe XD를 시작하다. 
-
-### 링크
-- 앱 또는 웹 사이트의 레이아웃 제작 및 디자인
-
-로우 피델리티 디자인 시작하기
-https://helpx.adobe.com/kr/xd/how-to/web-mobile-app-ui-ux-design-basics.html
-
-<hr/>
