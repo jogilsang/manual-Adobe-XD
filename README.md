@@ -13,5 +13,13 @@
 
 create link
 
+### 연혁
+2018/10/21, Adobe XD를 시작하다. 
+
+### 링크
+- 앱 또는 웹 사이트의 레이아웃 제작 및 디자인
+
+로우 피델리티 디자인 시작하기
 https://helpx.adobe.com/kr/xd/how-to/web-mobile-app-ui-ux-design-basics.html
 
+<hr/>
