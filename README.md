@@ -5,6 +5,12 @@
 
 <hr/>
 
+### 그 외 사이트
+- Behance
+```
+https://www.behance.net/
+```
+
 ### 동영상 링크
 - 앱 또는 웹 사이트의 레이아웃 제작 및 디자인
 ```
@@ -13,6 +19,12 @@ https://helpx.adobe.com/kr/xd/how-to/web-mobile-app-ui-ux-design-basics.html
 ```
 
 ### asset 링크
+
+- 통합적으로 UI키트 다운받기
+```
+https://www.adobe.com/kr/products/xd/ui-design-kits.html
+```
+
 - UI 키트, 와이어프레임키트
 ```
 Wires, free wireframe kits for Adobe XD
