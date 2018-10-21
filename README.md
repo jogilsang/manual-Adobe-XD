@@ -30,6 +30,10 @@ https://www.adobe.com/products/xd/resources.html#panel-3
 https://assets.adobe.com/files
 ```
 
+### 단축키
+```
+ctrl + shift + m : 마스크 만들기
+```
 
 ### 메모
 어도비XD를 사용하고자하는 나를 위한 메뉴얼
