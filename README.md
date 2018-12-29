@@ -1,4 +1,4 @@
-# manual-Adobe-XD
+# manual-xd
 
 ### 연혁
 2018/10/21, Adobe XD를 시작하다. 
@@ -17,6 +17,10 @@ ctrl + j : 반전인듯? 해당영역 제외하고 다 삭제함
 <hr/>
 
 ### 그 외 사이트
+
+- 블로그  
+https://theblog.adobe.com/may-2018-update-adobe-xd/  
+
 - Behance
 ```
 https://www.behance.net/
