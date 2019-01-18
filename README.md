@@ -30,7 +30,10 @@ https://www.behance.net/
 레이어창 - 소프트라이트  
 이미지 - 조정 -색도/채도 - 채도상승  
 
+### Adobe 포토샵단축키(Photoshop) 
+
 ctrl + j : 반전인듯? 해당영역 제외하고 다 삭제함  
+ctrl + shit + i : 선택 외 영역
 
 <hr/>
 
