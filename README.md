@@ -32,8 +32,9 @@ https://www.behance.net/
 
 ### Adobe 포토샵단축키(Photoshop) 
 
-ctrl + j : 반전인듯? 해당영역 제외하고 다 삭제함  
-ctrl + shit + i : 선택 외 영역
+ctrl + j : 반전인듯? 해당영역 제외하고 다 삭제함   
+ctrl + shit + i : 선택 외 영역  
+ctrl + alt + c : 캔버스크기  
 
 <hr/>
 
