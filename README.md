@@ -36,6 +36,9 @@ https://www.behance.net/
 클립  
 타임라인  
 
+공식 영상 :  
+https://helpx.adobe.com/kr/premiere-pro/tutorials.html  
+
 ### Adobe 포토샵단축키(Photoshop) 
 
 ctrl + j : 반전인듯? 해당영역 제외하고 다 삭제함   
