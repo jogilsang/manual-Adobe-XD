@@ -136,6 +136,25 @@ clarity 선명도
 eq 주파수 조절
 프리셋 세팅 저장가능
 
+Modify - Interpret Footage
+
+modify audio mono 소리가 2개 생김
+
+맥심 자고는 speed duration을 이용해서
+속도조절 하는걸 보여줬다.
+링크키를 누르느냐 안누르느냐에 따라
+퍼센트 게이지를 조절했고,
+optical flow 렌더링을 통해 좋은 화질을 보여줬다
+그리고 sqeuence 메뉴에서 render
+start and end을 통해 렌더링을 적용시켰다
+단축키는 enter이며 자동으로 sequence가
+재생된다.
+
+맥심자고는 클립 - 오디오옵션 - 오디오게인 오디오레벨을 맞추고있다
+을 통해서 노멀라이즈 올 피크를 -18db로 맞췄다
+기존 시퀀스에있는 파일들은 드래그해서 오른쪽 오디오패널에서 Loundess를 오토매치했다
+오른쪽 마우스로 오디오게인 설정도 가능하다
+
 ```
 
 ### Adobe 포토샵단축키(Photoshop) 
