@@ -39,6 +39,67 @@ Adobe의 After Effects, 플러그인을 설치하기 위한 ZXP Installer
 
 로티자료이용 : 
 https://lottiefiles.com/
+
+키프레임을 당겨서 시작부분을 다르게할수있음
+```
+
+Adobe effect 어도비 이펙트 주의사항
+```
+ctrl + s 수시로해야함. 무거워서 언제꺼질지모름
+
+부모레이어의 opacity는 자식 레이어가 따라가지않음
+동적인 요소만 따라감
+```
+
+2. Adobe 이펙트 단축키
+```
+new composition(새로운 컴포지션 만들기) :
+ctrl + n
+
+한쪽만 path 수정하기 :
+alt누르고 작업
+
+1프레임씩 이동하기 :
+page up, down
+
+10프레임씩 이동하기 :
+shift + page up, down
+
+애니메이션속도 조절 :
+전체드래그 + alt 누르고 키프레임을 당기고 줄이면 가능
+
+경로에 따라 자동으로 이미지가 회전(힘들게 path를 그릴필요없음) :
+source 오른쪽이미지 - transform - auto orient
+
+레이어복사가능 :
+ctrl + d
+
+모든 키프레임 보기(예를들어 hue/saturation) :
+u 누르기 
+
+hue/saturation 설정 : 
+effect - color con~~? / hue/saturation
+
+pen tool 이나 도형으로 path를 하려는경우, Text Name을 클릭하고 해야
+shape이 안생김 
+
+drag 속도 느리게하기 :
+ctrl 누르고 작업
+
+이미지 교체하는법 :
+이미지를 선택후 Alt를 누른채 쭈욱 드래그하면바뀜
+
+펜툴로 라인을 생성하는법 : 
+effect - genereate - stroke
+
+paint storke :
+reveal original image - 뒤에 배경이 path
+
+솔리는 색상을지정해서 만드는 레이어
+
+Transition - Linear wipe
+
+alt + [, ] 레이어삭제
 ```
 
 ### Adobe 프리미어(premiere)
