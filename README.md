@@ -30,6 +30,17 @@ https://www.behance.net/
 레이어창 - 소프트라이트  
 이미지 - 조정 -색도/채도 - 채도상승 
 
+### Adobe 애프터 이펙트(affter effect)
+1. Lottie
+```
+Lottie 라이브러리
+Adobe의 After Effects, 플러그인을 설치하기 위한 ZXP Installer
+애니메이션을 JSON으로 변환하는 플러그인인 Bodymovin
+
+로티자료이용 : 
+https://lottiefiles.com/
+```
+
 ### Adobe 프리미어(premiere)
 패널  
 시퀀스  
